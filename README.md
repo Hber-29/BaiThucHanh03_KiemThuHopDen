@@ -104,3 +104,21 @@ He thong dap ung dung cac yeu cau:
 
 Ty le thanh cong: 100%
 
+## Áp dụng kiểm thử hộp đen
+
+Trong bài thực hành này, phương pháp kiểm thử hộp đen (Black-box Testing) được áp dụng bằng cách kiểm tra chương trình dựa trên đầu vào và đầu ra mong đợi, mà không quan tâm đến cấu trúc mã nguồn bên trong.
+
+Cụ thể:
+
+- Xác định các lớp dữ liệu đầu vào:
+  - Dữ liệu hợp lệ
+  - Dữ liệu không hợp lệ
+  - Giá trị biên
+
+- Thiết kế test case dựa trên:
+  - Phân vùng tương đương (Equivalence Partitioning)
+  - Kiểm thử giá trị biên (Boundary Value Analysis)
+
+- So sánh kết quả thực tế của chương trình với kết quả mong đợi để xác định chương trình hoạt động đúng hay sai.
+
+Việc kiểm thử được thực hiện độc lập với phần cài đặt, đảm bảo đánh giá đúng hành vi của hệ thống theo yêu cầu đề bài.
