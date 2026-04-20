@@ -103,3 +103,5 @@ He thong dap ung dung cac yeu cau:
 - Bao phu cac gia tri bien
 
 Ty le thanh cong: 100%
+
+## Updated to complete Issue #2
