@@ -143,4 +143,3 @@ Chuong trinh dap ung day du:
 - Du lieu khong hop le
 - Du lieu ngoai le
 
-## Updated to complete Issue #1
