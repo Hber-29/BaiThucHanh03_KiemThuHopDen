@@ -104,4 +104,3 @@ He thong dap ung dung cac yeu cau:
 
 Ty le thanh cong: 100%
 
-## Updated to complete Issue #2
